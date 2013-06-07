@@ -384,10 +384,10 @@ div {
 
 #u20 {
     position:absolute;
-    left:110px;
-    top:535px;
-    width:981px;
-    height:501px;
+    left:331px;
+    top:500px;
+    width:102px;
+    height:27px;
     overflow:hidden;
 }
 
@@ -395,36 +395,36 @@ div {
     position:absolute;
     left:0px;
     top:0px;
-    width:981px;
-    height:501px;
+    width:102px;
+    height:27px;
     
 }
 
 .u21_normal {
-    background-image: url('../Home_files/VentSprintPq1_u21_normal.png');
+    background-image: url('../Home_files/BotonTareasActivo_u21_normal.png');
 }
 
 .u21_container {
     position:absolute;
     left:0px;
     top:0px;
-    width:475px;
-    height:500px;
+    width:100px;
+    height:25px;
 }
 
 #u21_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:481px;
-    height:506px;
+    width:106px;
+    height:31px;
 }
 
 .u22 {
     position:absolute;
     left:2px;
-    top:242px;
-    width:471px;
+    top:5px;
+    width:96px;
     height:15px;
     ;
     ;
@@ -438,36 +438,36 @@ div {
     position:absolute;
     left:0px;
     top:0px;
-    width:981px;
-    height:501px;
+    width:102px;
+    height:27px;
     
 }
 
 .u23_normal {
-    background-image: url('../Home_files/VentSprintGrande_u23_normal.png');
+    background-image: url('../Home_files/BotonSprintInactivo_u9_normal.png');
 }
 
 .u23_container {
     position:absolute;
     left:0px;
     top:0px;
-    width:980px;
-    height:500px;
+    width:100px;
+    height:25px;
 }
 
 #u23_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:986px;
-    height:506px;
+    width:106px;
+    height:31px;
 }
 
 .u24 {
     position:absolute;
     left:2px;
-    top:242px;
-    width:976px;
+    top:5px;
+    width:96px;
     height:15px;
     ;
     ;
@@ -481,27 +481,30 @@ div {
     position:absolute;
     left:110px;
     top:535px;
-    width:981px;
-    height:501px;
+    width:991px;
+    height:520px;
     overflow:hidden;
 }
 
-#pd2u25 {
+#pd6u25 {
     position:absolute;
     left:0px;
     top:0px;
-    width:981px;
-    height:501px;
-    
+    width:991px;
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
 }
 
 .u26_normal {
-    background-image: url('../Home_files/VentBacklogPq2_u26_normal.png');
+    background-image: url('../Home_files/VentBacklogPq1_u26_normal.png');
 }
 
 .u26_container {
     position:absolute;
-    left:485px;
+    left:0px;
     top:0px;
     width:475px;
     height:500px;
@@ -529,22 +532,13 @@ div {
     word-wrap:break-word;
 }
 
-#pd1u25 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:981px;
-    height:501px;
-    
-}
-
 .u28_normal {
-    background-image: url('../Home_files/VentBacklogPq2_u26_normal.png');
+    background-image: url('../Home_files/VentTareasPq2_u28_normal.png');
 }
 
 .u28_container {
     position:absolute;
-    left:0px;
+    left:485px;
     top:0px;
     width:475px;
     height:500px;
@@ -572,24 +566,27 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u25 {
+#pd5u25 {
     position:absolute;
     left:0px;
     top:0px;
-    width:981px;
-    height:501px;
-    
+    width:991px;
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
 }
 
 .u30_normal {
-    background-image: url('../Home_files/VentBacklogGrande_u30_normal.png');
+    background-image: url('../Home_files/VentSprintPq1_u30_normal.png');
 }
 
 .u30_container {
     position:absolute;
     left:0px;
     top:0px;
-    width:980px;
+    width:475px;
     height:500px;
 }
 
@@ -597,11 +594,171 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:986px;
+    width:481px;
     height:506px;
 }
 
 .u31 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../Home_files/VentTareasPq2_u28_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:485px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd4u25 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u34_normal {
+    background-image: url('../Home_files/VentSprintPq1_u30_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../Home_files/VentBacklogPq1_u26_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:485px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd3u25 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u38_normal {
+    background-image: url('../Home_files/VentTareasGrande_u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:980px;
+    height:500px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:506px;
+}
+
+.u39 {
     position:absolute;
     left:2px;
     top:242px;
@@ -615,171 +772,27 @@ div {
     word-wrap:break-word;
 }
 
-#u32 {
-    position:absolute;
-    left:331px;
-    top:500px;
-    width:102px;
-    height:27px;
-    overflow:hidden;
-}
-
-#pd1u32 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:102px;
-    height:27px;
-    
-}
-
-.u33_normal {
-    background-image: url('../Home_files/BotonTareasActivo_u33_normal.png');
-}
-
-.u33_container {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:100px;
-    height:25px;
-}
-
-#u33_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:31px;
-}
-
-.u34 {
-    position:absolute;
-    left:2px;
-    top:5px;
-    width:96px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#pd0u32 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:102px;
-    height:27px;
-    
-}
-
-.u35_normal {
-    background-image: url('../Home_files/BotonSprintInactivo_u9_normal.png');
-}
-
-.u35_container {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:100px;
-    height:25px;
-}
-
-#u35_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:106px;
-    height:31px;
-}
-
-.u36 {
-    position:absolute;
-    left:2px;
-    top:5px;
-    width:96px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#u37 {
-    position:absolute;
-    left:110px;
-    top:535px;
-    width:991px;
-    height:501px;
-    overflow:hidden;
-}
-
-#pd2u37 {
+#pd2u25 {
     position:absolute;
     left:0px;
     top:0px;
     width:991px;
-    height:501px;
-    
-}
-
-.u38_normal {
-    background-image: url('../Home_files/VentTareasPq3_u38_normal.png');
-}
-
-.u38_container {
-    position:absolute;
-    left:970px;
-    top:0px;
-    width:475px;
-    height:500px;
-}
-
-#u38_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:481px;
-    height:506px;
-}
-
-.u39 {
-    position:absolute;
-    left:2px;
-    top:242px;
-    width:471px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#pd1u37 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:991px;
-    height:501px;
-    
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
 }
 
 .u40_normal {
-    background-image: url('../Home_files/VentTareasPq3_u38_normal.png');
+    background-image: url('../Home_files/VentBacklogGrande_u40_normal.png');
 }
 
 .u40_container {
     position:absolute;
-    left:485px;
+    left:0px;
     top:0px;
-    width:475px;
+    width:980px;
     height:500px;
 }
 
@@ -787,7 +800,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:481px;
+    width:986px;
     height:506px;
 }
 
@@ -795,7 +808,7 @@ div {
     position:absolute;
     left:2px;
     top:242px;
-    width:471px;
+    width:976px;
     height:15px;
     ;
     ;
@@ -805,17 +818,20 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u37 {
+#pd1u25 {
     position:absolute;
     left:0px;
     top:0px;
     width:991px;
-    height:501px;
-    
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
 }
 
 .u42_normal {
-    background-image: url('../Home_files/VentTareasGrande_u42_normal.png');
+    background-image: url('../Home_files/VentSprintGrande_u42_normal.png');
 }
 
 .u42_container {
@@ -848,11 +864,125 @@ div {
     word-wrap:break-word;
 }
 
-.u44_line {
-    background-image: url('../Home_files/u44_line.png');
+#pd0u25 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:520px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
 }
 
-.u44_line {
+.u44_normal {
+    background-image: url('../Home_files/VentBacklogPq1_u26_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:485px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../Home_files/VentTareasPq2_u28_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:970px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../Home_files/VentSprintPq1_u30_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:475px;
+    height:500px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_line {
+    background-image: url('../Home_files/u50_line.png');
+}
+
+.u50_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -860,7 +990,7 @@ div {
     height:500px;
 }
 
-.u44 {
+.u50 {
     position:absolute;
     left:1095px;
     top:535px;
