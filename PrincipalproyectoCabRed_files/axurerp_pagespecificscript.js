@@ -12,14 +12,14 @@ SetGlobalVariableValue('NumVentAbiertas', '0');
 }
 
 });
-gv_vAlignTable['u82'] = 'center';gv_vAlignTable['u83'] = 'top';gv_vAlignTable['u85'] = 'center';gv_vAlignTable['u86'] = 'top';gv_vAlignTable['u88'] = 'center';gv_vAlignTable['u90'] = 'center';gv_vAlignTable['u91'] = 'top';gv_vAlignTable['u10'] = 'center';document.getElementById('u12_img').tabIndex = 0;
+gv_vAlignTable['u59'] = 'top';gv_vAlignTable['u81'] = 'center';gv_vAlignTable['u84'] = 'center';gv_vAlignTable['u85'] = 'top';gv_vAlignTable['u87'] = 'center';gv_vAlignTable['u89'] = 'center';gv_vAlignTable['u91'] = 'center';gv_vAlignTable['u92'] = 'top';gv_vAlignTable['u94'] = 'center';gv_vAlignTable['u96'] = 'center';gv_vAlignTable['u99'] = 'center';gv_vAlignTable['u18'] = 'center';gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u22'] = 'center';document.getElementById('u24_img').tabIndex = 0;
 
-u12.style.cursor = 'pointer';
-$axure.eventManager.click('u12', function(e) {
+u24.style.cursor = 'pointer';
+$axure.eventManager.click('u24', function(e) {
 
 if (true) {
 
-	SetPanelState('u11', 'pd0u11','none','',500,'none','',500);
+	SetPanelState('u23', 'pd0u23','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentAbiertas') - 1) + '');
 
@@ -27,117 +27,117 @@ SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentA
 
 if ((GetGlobalVariableValue('NumVentAbiertas')) < Number('1')) {
 
-	SetPanelVisibility('u21','hidden','none',500);
+	SetPanelVisibility('u38','hidden','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u13'] = 'center';document.getElementById('u14_img').tabIndex = 0;
+gv_vAlignTable['u25'] = 'center';document.getElementById('u26_img').tabIndex = 0;
 
-u14.style.cursor = 'pointer';
-$axure.eventManager.click('u14', function(e) {
+u26.style.cursor = 'pointer';
+$axure.eventManager.click('u26', function(e) {
 
 if (true) {
 
-	SetPanelState('u11', 'pd1u11','none','',500,'none','',500);
+	SetPanelState('u23', 'pd1u23','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetNum(GetGlobalVariableValue('NumVentAbiertas')) + 1) + ' ');
 
-	SetPanelVisibility('u21','','none',500);
+	SetPanelVisibility('u38','','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u15'] = 'center';document.getElementById('u17_img').tabIndex = 0;
+gv_vAlignTable['u27'] = 'center';document.getElementById('u29_img').tabIndex = 0;
 
-u17.style.cursor = 'pointer';
-$axure.eventManager.click('u17', function(e) {
+u29.style.cursor = 'pointer';
+$axure.eventManager.click('u29', function(e) {
 
 if (true) {
 
-	SetPanelState('u16', 'pd0u16','none','',500,'none','',500);
+	SetPanelState('u28', 'pd0u28','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentAbiertas') - 1) + '');
 
@@ -145,117 +145,117 @@ SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentA
 
 if ((GetGlobalVariableValue('NumVentAbiertas')) < Number('1')) {
 
-	SetPanelVisibility('u21','hidden','none',500);
+	SetPanelVisibility('u38','hidden','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u18'] = 'center';document.getElementById('u19_img').tabIndex = 0;
+gv_vAlignTable['u100'] = 'top';gv_vAlignTable['u102'] = 'center';gv_vAlignTable['u103'] = 'top';gv_vAlignTable['u105'] = 'center';gv_vAlignTable['u107'] = 'center';gv_vAlignTable['u108'] = 'top';gv_vAlignTable['u30'] = 'center';document.getElementById('u31_img').tabIndex = 0;
 
-u19.style.cursor = 'pointer';
-$axure.eventManager.click('u19', function(e) {
+u31.style.cursor = 'pointer';
+$axure.eventManager.click('u31', function(e) {
 
 if (true) {
 
-	SetPanelState('u16', 'pd1u16','none','',500,'none','',500);
+	SetPanelState('u28', 'pd1u28','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetNum(GetGlobalVariableValue('NumVentAbiertas')) + 1) + ' ');
 
-	SetPanelVisibility('u21','','none',500);
+	SetPanelVisibility('u38','','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u111'] = 'center';gv_vAlignTable['u113'] = 'center';gv_vAlignTable['u115'] = 'center';gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u23'] = 'center';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u28'] = 'center';gv_vAlignTable['u29'] = 'top';gv_vAlignTable['u100'] = 'center';gv_vAlignTable['u102'] = 'center';gv_vAlignTable['u103'] = 'top';gv_vAlignTable['u105'] = 'center';gv_vAlignTable['u107'] = 'center';gv_vAlignTable['u109'] = 'center';gv_vAlignTable['u31'] = 'center';gv_vAlignTable['u32'] = 'top';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u36'] = 'center';gv_vAlignTable['u38'] = 'center';gv_vAlignTable['u39'] = 'top';gv_vAlignTable['u94'] = 'center';gv_vAlignTable['u96'] = 'center';gv_vAlignTable['u98'] = 'center';gv_vAlignTable['u117'] = 'center';gv_vAlignTable['u41'] = 'center';gv_vAlignTable['u43'] = 'center';gv_vAlignTable['u44'] = 'top';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u48'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u5'] = 'center';document.getElementById('u7_img').tabIndex = 0;
+gv_vAlignTable['u32'] = 'center';document.getElementById('u34_img').tabIndex = 0;
 
-u7.style.cursor = 'pointer';
-$axure.eventManager.click('u7', function(e) {
+u34.style.cursor = 'pointer';
+$axure.eventManager.click('u34', function(e) {
 
 if (true) {
 
-	SetPanelState('u6', 'pd0u6','none','',500,'none','',500);
+	SetPanelState('u33', 'pd0u33','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentAbiertas') - 1) + '');
 
@@ -263,107 +263,107 @@ SetGlobalVariableValue('NumVentAbiertas', '' + (GetGlobalVariableValue('NumVentA
 
 if ((GetGlobalVariableValue('NumVentAbiertas')) < Number('1')) {
 
-	SetPanelVisibility('u21','hidden','none',500);
+	SetPanelVisibility('u38','hidden','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u8'] = 'center';document.getElementById('u9_img').tabIndex = 0;
+gv_vAlignTable['u35'] = 'center';document.getElementById('u36_img').tabIndex = 0;
 
-u9.style.cursor = 'pointer';
-$axure.eventManager.click('u9', function(e) {
+u36.style.cursor = 'pointer';
+$axure.eventManager.click('u36', function(e) {
 
 if (true) {
 
-	SetPanelState('u6', 'pd1u6','none','',500,'none','',500);
+	SetPanelState('u33', 'pd1u33','none','',500,'none','',500);
 
 SetGlobalVariableValue('NumVentAbiertas', '' + (GetNum(GetGlobalVariableValue('NumVentAbiertas')) + 1) + ' ');
 
-	SetPanelVisibility('u21','','none',500);
+	SetPanelVisibility('u38','','none',500);
 
 }
 
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u6')) == ('pd1u6')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u23')) == ('pd1u23')))) {
 
-	SetPanelState('u21', 'pd1u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u11')) == ('pd1u11')))) {
-
-	SetPanelState('u21', 'pd2u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd1u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u16')) == ('pd1u16')))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u28')) == ('pd1u28')))) {
 
-	SetPanelState('u21', 'pd3u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u11')) == ('pd1u11'))))) {
-
-	SetPanelState('u21', 'pd4u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd2u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u6')) == ('pd1u6')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('1')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('1')) && ((GetPanelState('u33')) == ('pd1u33')))) {
 
-	SetPanelState('u21', 'pd5u21','none','',500,'none','',500);
-
-}
-else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16'))))) {
-
-	SetPanelState('u21', 'pd6u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd3u38','none','',500,'none','',500);
 
 }
 else
-if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u6')) == ('pd1u6')) && (((GetPanelState('u11')) == ('pd1u11')) && ((GetPanelState('u16')) == ('pd1u16')))))) {
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u28')) == ('pd1u28'))))) {
 
-	SetPanelState('u21', 'pd0u21','none','',500,'none','',500);
+	SetPanelState('u38', 'pd4u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u23')) == ('pd1u23')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd5u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('2')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('2')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33'))))) {
+
+	SetPanelState('u38', 'pd6u38','none','',500,'none','',500);
+
+}
+else
+if (((GetGlobalVariableValue('NumVentAbiertas')) <= Number('3')) && (((GetGlobalVariableValue('NumVentAbiertas')) >= Number('3')) && (((GetPanelState('u23')) == ('pd1u23')) && (((GetPanelState('u28')) == ('pd1u28')) && ((GetPanelState('u33')) == ('pd1u33')))))) {
+
+	SetPanelState('u38', 'pd0u38','none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u51'] = 'center';gv_vAlignTable['u52'] = 'top';gv_vAlignTable['u54'] = 'center';gv_vAlignTable['u55'] = 'top';gv_vAlignTable['u57'] = 'center';gv_vAlignTable['u59'] = 'center';gv_vAlignTable['u61'] = 'center';gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u64'] = 'center';gv_vAlignTable['u67'] = 'center';gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u70'] = 'center';gv_vAlignTable['u72'] = 'center';gv_vAlignTable['u74'] = 'center';gv_vAlignTable['u75'] = 'top';gv_vAlignTable['u77'] = 'center';gv_vAlignTable['u79'] = 'center';
+gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u111'] = 'center';gv_vAlignTable['u113'] = 'center';gv_vAlignTable['u115'] = 'center';gv_vAlignTable['u117'] = 'center';gv_vAlignTable['u40'] = 'center';gv_vAlignTable['u42'] = 'center';gv_vAlignTable['u45'] = 'center';gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u48'] = 'center';gv_vAlignTable['u49'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u5'] = 'center';gv_vAlignTable['u7'] = 'center';gv_vAlignTable['u8'] = 'top';gv_vAlignTable['u51'] = 'center';gv_vAlignTable['u53'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u14'] = 'center';gv_vAlignTable['u16'] = 'center';gv_vAlignTable['u61'] = 'center';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u66'] = 'center';gv_vAlignTable['u67'] = 'top';gv_vAlignTable['u69'] = 'center';gv_vAlignTable['u70'] = 'top';gv_vAlignTable['u72'] = 'center';gv_vAlignTable['u74'] = 'center';gv_vAlignTable['u76'] = 'center';gv_vAlignTable['u78'] = 'center';gv_vAlignTable['u79'] = 'top';gv_vAlignTable['u55'] = 'center';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u58'] = 'center';
