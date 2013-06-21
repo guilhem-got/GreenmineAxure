@@ -1,0 +1,2045 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/MarcoPrincipal_u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1000px;
+    height:1379px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:1385px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:682px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/CabeceraGreenmine_u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1000px;
+    height:121px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1000px;
+    height:121px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/FotoUser_u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:899px;
+    top:24px;
+    width:56px;
+    height:56px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:56px;
+    height:56px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u6 {
+    position:absolute;
+    left:10px;
+    top:331px;
+    width:102px;
+    height:26px;
+    overflow:hidden;
+}
+
+#pd1u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:26px;
+    
+}
+
+.u7_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintActivo_u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:26px;
+    
+}
+
+.u9_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u11 {
+    position:absolute;
+    left:121px;
+    top:330px;
+    width:102px;
+    height:27px;
+    overflow:hidden;
+}
+
+#pd1u11 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:27px;
+    
+}
+
+.u12_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonBacklogActivo_u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u11 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:27px;
+    
+}
+
+.u14_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u9_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u16 {
+    position:absolute;
+    left:231px;
+    top:330px;
+    width:102px;
+    height:27px;
+    overflow:hidden;
+}
+
+#pd1u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:27px;
+    
+}
+
+.u17_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonTareasActivo_u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:102px;
+    height:27px;
+    
+}
+
+.u19_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u9_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:25px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u21 {
+    position:absolute;
+    left:10px;
+    top:376px;
+    width:991px;
+    height:551px;
+    overflow:hidden;
+}
+
+#pd6u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u22_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentBacklogPq1_u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:31px;
+    width:475px;
+    height:500px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentTareasPq2_u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:485px;
+    top:0px;
+    width:475px;
+    height:531px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:537px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:258px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u28 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:453px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:486px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u31 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:939px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:120px;
+    top:3px;
+    width:321px;
+    height:25px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:31px;
+}
+
+.u34 {
+    position:absolute;
+    left:4px;
+    top:4px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd5u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u35_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentTareasPq2_u24_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:485px;
+    top:0px;
+    width:475px;
+    height:531px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:537px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:258px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u30_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:486px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u38 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:939px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentSprintPq1_u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:473px;
+    height:498px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:479px;
+    height:504px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:469px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u43 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:453px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd4u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u45_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentSprintPq1_u40_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:473px;
+    height:498px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:479px;
+    height:504px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:469px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentBacklogPq1_u22_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:485px;
+    top:31px;
+    width:475px;
+    height:500px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u27_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:485px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u51 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:938px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u42_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u54 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:453px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u33_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:605px;
+    top:3px;
+    width:321px;
+    height:25px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:31px;
+}
+
+.u57 {
+    position:absolute;
+    left:4px;
+    top:4px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd3u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u58_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentTareasGrande_u58_normal.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:980px;
+    height:531px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:537px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:258px;
+    width:976px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:980px;
+    height:30px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:36px;
+}
+
+.u61 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:975px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:961px;
+    top:8px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd2u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u63_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentBacklogGrande_u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:0px;
+    top:32px;
+    width:980px;
+    height:500px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:506px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:243px;
+    width:976px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:980px;
+    height:30px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:36px;
+}
+
+.u67 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:975px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:961px;
+    top:8px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u33_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:628px;
+    top:3px;
+    width:321px;
+    height:25px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:31px;
+}
+
+.u70 {
+    position:absolute;
+    left:4px;
+    top:4px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u71_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentSprintGrande_u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:980px;
+    height:531px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:537px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:258px;
+    width:976px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u73_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:980px;
+    height:30px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:36px;
+}
+
+.u74 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:975px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:961px;
+    top:8px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u21 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:991px;
+    height:551px;
+    overflow:auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-y:hidden;
+    -ms-overflow-y:hidden;
+}
+
+.u76_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentBacklogPq1_u22_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:485px;
+    top:31px;
+    width:475px;
+    height:500px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:506px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentTareasPq2_u24_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:970px;
+    top:0px;
+    width:475px;
+    height:531px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:537px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:258px;
+    width:471px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u27_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:485px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u82 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:938px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u30_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:970px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u85 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:1423px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/VentSprintPq1_u40_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:473px;
+    height:498px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:479px;
+    height:504px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:242px;
+    width:469px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u42_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:475px;
+    height:30px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:481px;
+    height:36px;
+}
+
+.u90 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:470px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:453px;
+    top:7px;
+    width:16px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_line {
+    background-image: url('../PrincipalproyectoCabRed_files/u92_line.png');
+}
+
+.u92_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:500px;
+}
+
+.u92 {
+    position:absolute;
+    left:995px;
+    top:364px;
+    width:10px;
+    height:500px;
+    
+}
+
+.u93_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u93_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:670px;
+    top:330px;
+    width:100px;
+    height:25px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u93_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:559px;
+    top:330px;
+    width:100px;
+    height:25px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u9_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:342px;
+    top:330px;
+    width:100px;
+    height:25px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/BotonSprintInactivo_u99_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:888px;
+    top:330px;
+    width:100px;
+    height:25px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:31px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u101_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:10px;
+    top:172px;
+    width:980px;
+    height:25px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:31px;
+}
+
+.u102 {
+    position:absolute;
+    left:30px;
+    top:4px;
+    width:948px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:10px;
+    top:133px;
+    width:150px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u104_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:19px;
+    top:178px;
+    width:12px;
+    height:15px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:21px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:8px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u101_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:10px;
+    top:218px;
+    width:980px;
+    height:25px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:31px;
+}
+
+.u107 {
+    position:absolute;
+    left:30px;
+    top:4px;
+    width:948px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u101_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:10px;
+    top:264px;
+    width:980px;
+    height:25px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:986px;
+    height:31px;
+}
+
+.u109 {
+    position:absolute;
+    left:30px;
+    top:4px;
+    width:948px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u104_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:19px;
+    top:223px;
+    width:12px;
+    height:15px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:21px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:8px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../PrincipalproyectoCabRed_files/u104_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:19px;
+    top:269px;
+    width:12px;
+    height:15px;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:18px;
+    height:21px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:8px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u114_container {
+    position:absolute;
+    left:188px;
+    top:264px;
+    width:693px;
+    height:25px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:699px;
+    height:31px;
+}
+
+.u115 {
+    position:absolute;
+    left:3px;
+    top:4px;
+    width:688px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u116_container {
+    position:absolute;
+    left:86px;
+    top:218px;
+    width:693px;
+    height:25px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:699px;
+    height:31px;
+}
+
+.u117 {
+    position:absolute;
+    left:3px;
+    top:4px;
+    width:688px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
