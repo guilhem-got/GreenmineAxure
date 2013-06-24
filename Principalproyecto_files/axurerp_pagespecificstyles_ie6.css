@@ -230,7 +230,7 @@
 
 * html .u115_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/CuadroDescripcionProyecto_u6_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/CuadroDescripcionProyecto_u115_normal.png");
 }
 
 * html .u117_normal {
@@ -251,5 +251,15 @@
 * html .u123_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u113_normal.png");
+}
+
+* html .u125_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u125_normal.png");
+}
+
+* html .u127_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u127_normal.png");
 }
 
