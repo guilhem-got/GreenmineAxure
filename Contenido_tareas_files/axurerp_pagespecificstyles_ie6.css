@@ -60,6 +60,21 @@
 
 * html .u45_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Contenido_tareas_files/u10_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Contenido_tareas_files/u45_normal.png");
+}
+
+* html .u48_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Contenido_tareas_files/u45_normal.png");
+}
+
+* html .u51_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Contenido_tareas_files/u45_normal.png");
+}
+
+* html .u54_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Contenido_tareas_files/u45_normal.png");
 }
 

@@ -1016,3 +1016,71 @@ div {
     word-wrap:break-word;
 }
 
+.u60_normal {
+    background-image: url('../PantallaInicio_files/u60_normal.png');
+}
+
+.u60_container {
+    position:absolute;
+    left:40px;
+    top:205px;
+    width:280px;
+    height:178px;
+}
+
+#u60_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:286px;
+    height:184px;
+}
+
+.u61 {
+    position:absolute;
+    left:2px;
+    top:81px;
+    width:276px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../PantallaInicio_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:40px;
+    top:393px;
+    width:280px;
+    height:112px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:286px;
+    height:118px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:276px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
