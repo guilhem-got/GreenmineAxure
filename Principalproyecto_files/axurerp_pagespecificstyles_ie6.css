@@ -80,77 +80,82 @@
 
 * html .u39_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasPq2_u28_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
 * html .u41_normal {
     background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasPq2_u28_normal.png");
+}
+
+* html .u43_normal {
+    background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u34_normal.png");
 }
 
-* html .u44_normal {
+* html .u46_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u44_normal.png");
-}
-
-* html .u47_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u47_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u46_normal.png");
 }
 
 * html .u49_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogPq1_u26_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u49_normal.png");
 }
 
-* html .u52_normal {
+* html .u51_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u31_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
+}
+
+* html .u53_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u53_normal.png");
 }
 
 * html .u55_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u44_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u55_normal.png");
 }
 
 * html .u58_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogPq1_u26_normal.png");
 }
 
-* html .u60_normal {
+* html .u61_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u60_normal.png");
-}
-
-* html .u62_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasGrande_u62_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u31_normal.png");
 }
 
 * html .u64_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u64_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u46_normal.png");
 }
 
-* html .u68_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogGrande_u68_normal.png");
-}
-
-* html .u71_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u71_normal.png");
-}
-
-* html .u74_normal {
+* html .u67_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
+* html .u69_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u69_normal.png");
+}
+
+* html .u72_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u53_normal.png");
+}
+
+* html .u74_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u55_normal.png");
+}
+
 * html .u76_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintGrande_u76_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasGrande_u76_normal.png");
 }
 
 * html .u78_normal {
@@ -158,108 +163,173 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u78_normal.png");
 }
 
-* html .u81_normal {
+* html .u82_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogPq1_u26_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
-* html .u83_normal {
+* html .u84_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasPq2_u28_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogGrande_u84_normal.png");
 }
 
-* html .u86_normal {
+* html .u87_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u31_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u87_normal.png");
 }
 
-* html .u89_normal {
+* html .u90_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u34_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
 * html .u92_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u47_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintGrande_u92_normal.png");
 }
 
 * html .u94_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u44_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u94_normal.png");
 }
 
-* html .u97_line {
+* html .u97_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u97_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
-* html .u98_normal {
+* html .u99_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u98_normal.png");
-}
-
-* html .u100_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u98_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u55_normal.png");
 }
 
 * html .u102_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u11_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentBacklogPq1_u26_normal.png");
 }
 
 * html .u104_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u104_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentTareasPq2_u28_normal.png");
 }
 
-* html .u106_normal {
+* html .u107_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u106_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u31_normal.png");
 }
 
 * html .u110_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u110_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u34_normal.png");
 }
 
 * html .u113_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u113_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/VentSprintPq1_u49_normal.png");
 }
 
 * html .u115_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/CuadroDescripcionProyecto_u115_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u46_normal.png");
 }
 
-* html .u117_normal {
+* html .u118_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u110_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
-* html .u119_normal {
+* html .u120_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u113_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u53_normal.png");
 }
 
-* html .u121_normal {
+* html .u122_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u110_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u37_normal.png");
 }
 
-* html .u123_normal {
+* html .u124_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u113_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u55_normal.png");
 }
 
-* html .u125_normal {
+* html .u127_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u125_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u127_line.png");
 }
 
-* html .u127_normal {
+* html .u128_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u127_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u128_normal.png");
+}
+
+* html .u130_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u128_normal.png");
+}
+
+* html .u132_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u11_normal.png");
+}
+
+* html .u134_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/BotonSprintInactivo_u134_normal.png");
+}
+
+* html .u136_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u136_normal.png");
+}
+
+* html .u140_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u140_normal.png");
+}
+
+* html .u143_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u143_normal.png");
+}
+
+* html .u145_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/CuadroDescripcionProyecto_u145_normal.png");
+}
+
+* html .u147_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u140_normal.png");
+}
+
+* html .u149_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u143_normal.png");
+}
+
+* html .u151_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u140_normal.png");
+}
+
+* html .u153_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u143_normal.png");
+}
+
+* html .u155_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u155_normal.png");
+}
+
+* html .u157_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u157_normal.png");
+}
+
+* html .u159_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Principalproyecto_files/u159_normal.png");
 }
 
